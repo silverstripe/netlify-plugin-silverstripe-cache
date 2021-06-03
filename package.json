@@ -1,0 +1,18 @@
+{
+    "name": "netlify-plugin-silverstripe-cache",
+    "version": "0.3.2",
+    "description": "Persist the cache for the Silverstripe Gatsby cache between Netlify builds",
+    "main": "index.js",
+    "repository": "https://github.com/silverstripe/netlify-plugin-silverstripe-cache.git",
+    "bugs": {
+      "url": "https://github.com/silverstripe/netlify-plugin-silverstripe-cache/issues"
+    },
+    "author": "Aaron Carlino <aaron@silverstripe.com>",
+    "license": "BSD-3",
+    "keywords": [
+      "netlify",
+      "netlify-plugin"
+    ],
+    "dependencies": {}
+  }
+  
