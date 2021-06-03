@@ -1,6 +1,6 @@
 {
     "name": "netlify-plugin-silverstripe-cache",
-    "version": "0.3.2",
+    "version": "0.1.0",
     "description": "Persist the cache for the Silverstripe Gatsby cache between Netlify builds",
     "main": "index.js",
     "repository": "https://github.com/silverstripe/netlify-plugin-silverstripe-cache.git",
